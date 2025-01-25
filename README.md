@@ -1,2 +1,27 @@
-# Spring-mvc-project
-CREATE A SAMPLE SPRING MVC/ SPRING BOOT WEB APPLICATION TO : ● LANDING PAGE TO CONTAIN LIST OF EMPLOYEES LOADED FROM DATABASE. ● A FRONT END USER SHOULD BE ABLE TO DO THE FOLLOWING OPERATIONS 1. ADD A NEW EMPLOYEE WITH ALL DETAILS. 2. EDIT ANY EXISTING EMPLOYEE DETAILS. 3. DELETE ANY EXISTING EMPLOYEE RECORDS ● EMPLOYEE TABLE TO CONSIST OF THE FOLLOWING DETAILS: ALL DETAILS ARE MANDATORY AND CANNOT BE NULL/ BLANK. ○ ID (CAN BE AUTO GENERATED) (INT/ LONG) ○ NAME (STRING) ○ EMAIL (VALIDATE VALID EMAIL ONLY) ○ DOB (DATE/ TIMESTAMP) ○ AGE (TO BE CALCULATED FROM DOB) ○ SALARY (DECIMAL VALUE) ○ STATUS (ACTIVE/ INACTIVE) - (BOOLEAN) ● ALL PAGES TO BE MOBILE RESPONSIVE AS MUCH AS POSSIBLE.
+# AirBnbFront
+
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.1.2.
+
+## Development server
+
+Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+
+## Code scaffolding
+
+Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+
+## Build
+
+Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+
+## Running unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+
+## Running end-to-end tests
+
+Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+
+## Further help
+
+To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
